@@ -1,0 +1,14 @@
+{
+  "name": "axios-tut",
+  "version": "1.0.0",
+  "description": "we will learn how to install axios and use axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suryasen",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
